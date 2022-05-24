@@ -1,0 +1,15 @@
+header{
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  background:linear-gradient(to bottom,rgb(213, 249, 10),rgb(202, 245, 8),rgb(43, 248, 12));
+  height: 80px;
+  align-items: center;
+
+}
+a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(1, 1, 18);
+  font-weight: 600;
+}
